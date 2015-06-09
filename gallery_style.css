@@ -2,5 +2,5 @@
 		background-image: url("images/flowers.JPG");
 		background-size: cover;
 		background-repeat: no-repeat;
-		background-position: center;
+		background-position: contain;
 	}
